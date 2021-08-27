@@ -1,0 +1,18 @@
+.iconadd {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/union-15@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  margin-left: 337px;
+  margin-top: 0;
+  width: 25px;
+}
+
+.iconadd.iconadd-1 {
+  left: 369px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 150px;
+}
+

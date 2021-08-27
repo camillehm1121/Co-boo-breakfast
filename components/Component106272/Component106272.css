@@ -1,0 +1,64 @@
+.component-106-12 {
+  align-items: flex-start;
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 667px;
+}
+
+.overlap-group13 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-11547-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 367px;
+  margin-top: -133.5px;
+  min-width: 711px;
+  padding: 155.5px 187.5px;
+}
+
+.overlap-group1-5 {
+  align-items: flex-start;
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 15px;
+  display: flex;
+  margin-top: 0;
+  min-width: 70px;
+  padding: 0 21.0px;
+}
+
+.group-2756 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  width: 27px;
+}
+
+.ico {
+  height: 27px;
+  margin-left: 40px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 27px;
+}
+
+.setting {
+  height: 27px;
+  margin-left: 62px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.profile {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-11532-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  margin-left: 62px;
+  margin-top: 0;
+  width: 27px;
+}
+

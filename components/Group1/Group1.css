@@ -1,0 +1,33 @@
+.group-1 {
+  align-items: center;
+  display: flex;
+  height: 18px;
+  left: 333px;
+  position: absolute;
+  top: 24px;
+}
+
+.wifi {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/group-51-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  width: 18px;
+}
+
+.text {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-bottom: -3.2px;
+  margin-left: 9px;
+  min-height: 20px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.group-1.group-1-1 {
+  left: 307px;
+  top: 5px;
+}
+

@@ -1,0 +1,272 @@
+.component-32-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+
+.overlap-group5 {
+  height: 179px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 179px;
+}
+
+.group-2560 {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group-2 {
+  height: 179px;
+  position: relative;
+  width: 179px;
+}
+
+.rectangle {
+  border-radius: 89.5px;
+  height: 165px;
+  left: 7px;
+  opacity: 0.08;
+  position: absolute;
+  top: 7px;
+  width: 165px;
+}
+
+.group-2559 {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.circle-blue {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group8 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 8px solid #56c59614;
+  border-radius: 89.5px;
+  height: 187px;
+  margin-left: -12px;
+  margin-top: -12px;
+  width: 187px;
+}
+
+.path {
+  height: 76px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 76px;
+}
+
+.path-1 {
+  height: 165px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 149px;
+}
+
+.overlap-group3 {
+  height: 46px;
+  margin-top: 32px;
+  position: relative;
+  width: 304px;
+}
+
+.group-2541 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-11520-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 14px;
+  left: 107px;
+  min-width: 80px;
+  position: absolute;
+  top: 32px;
+}
+
+.rectangle-566 {
+  background-color: var(--pink-flare);
+  border-radius: 30px;
+  height: 14px;
+  width: 30px;
+}
+
+.group-2546 {
+  align-items: center;
+  display: flex;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+}
+
+.flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  width: 96px;
+}
+
+.fruits {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 8px;
+  min-height: 12px;
+  width: 82px;
+}
+
+.group-2570 {
+  align-items: flex-end;
+  display: flex;
+  height: 9px;
+  margin-left: 14px;
+  margin-top: 2px;
+  min-width: 30px;
+}
+
+.overlap-group6 {
+  height: 11px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 30px;
+}
+
+.x20g-co {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 7px;
+  opacity: 0.69;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.number {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 4px;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.group-2540 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/path-11520-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-top: 7px;
+  min-width: 80px;
+}
+
+.rectangle-566-1 {
+  background-color: var(--macaroni-cheese);
+  border-radius: 30px;
+  height: 14px;
+  width: 46px;
+}
+
+.e {
+  color: var(--black);
+  font-family: var(--font-family-americantypewriter-bold);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-bottom: 6.0px;
+  margin-left: 151px;
+  min-height: 12px;
+  width: 14px;
+}
+
+.meats {
+  left: 222px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 2px;
+  width: 82px;
+}
+
+.x60g-co {
+  left: 222px;
+  letter-spacing: 0;
+  line-height: 7px;
+  opacity: 0.69;
+  position: absolute;
+  top: 16px;
+  width: 30px;
+}
+
+.veggies {
+  left: 113px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 0;
+  width: 82px;
+}
+
+.number-1 {
+  left: 244px;
+  letter-spacing: 0;
+  line-height: 4px;
+  position: absolute;
+  top: 21px;
+  width: 7px;
+}
+
+.x15g-co {
+  height: 9px;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: 7px;
+  position: absolute;
+  top: 16px;
+  width: 53px;
+}
+
+.number-2 {
+  left: 137px;
+  letter-spacing: 0;
+  line-height: 4px;
+  position: absolute;
+  top: 21px;
+  width: 7px;
+}
+
+.e-1 {
+  left: 139px;
+  letter-spacing: 0;
+  line-height: 7px;
+  position: absolute;
+  top: 15px;
+  width: 14px;
+}
+

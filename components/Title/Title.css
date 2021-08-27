@@ -1,0 +1,15 @@
+.title {
+  color: var(--white);
+  font-family: var(--font-family-quicksand);
+  font-size: 28px;
+  font-weight: 700;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 10px 10px #00000029;
+  top: 14px;
+  white-space: nowrap;
+}
+
